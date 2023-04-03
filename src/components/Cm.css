@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+}
+.count1 button{
+    height: 100px;
+    width: 200px;
+    border-radius: 30px;
+    border: none;
+    margin-right: 30px;
+    background-color: aqua;
+}
